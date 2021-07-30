@@ -1,0 +1,16 @@
+C:\Users\andre\Documents\Kata Work\ZombieSurvial\ZombieSurvial\bin\Debug\net5.0\ZombieSurvial.exe
+C:\Users\andre\Documents\Kata Work\ZombieSurvial\ZombieSurvial\bin\Debug\net5.0\ZombieSurvial.deps.json
+C:\Users\andre\Documents\Kata Work\ZombieSurvial\ZombieSurvial\bin\Debug\net5.0\ZombieSurvial.runtimeconfig.json
+C:\Users\andre\Documents\Kata Work\ZombieSurvial\ZombieSurvial\bin\Debug\net5.0\ZombieSurvial.runtimeconfig.dev.json
+C:\Users\andre\Documents\Kata Work\ZombieSurvial\ZombieSurvial\bin\Debug\net5.0\ZombieSurvial.dll
+C:\Users\andre\Documents\Kata Work\ZombieSurvial\ZombieSurvial\bin\Debug\net5.0\ref\ZombieSurvial.dll
+C:\Users\andre\Documents\Kata Work\ZombieSurvial\ZombieSurvial\bin\Debug\net5.0\ZombieSurvial.pdb
+C:\Users\andre\Documents\Kata Work\ZombieSurvial\ZombieSurvial\obj\Debug\net5.0\ZombieSurvial.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\Kata Work\ZombieSurvial\ZombieSurvial\obj\Debug\net5.0\ZombieSurvial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\Kata Work\ZombieSurvial\ZombieSurvial\obj\Debug\net5.0\ZombieSurvial.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Kata Work\ZombieSurvial\ZombieSurvial\obj\Debug\net5.0\ZombieSurvial.AssemblyInfo.cs
+C:\Users\andre\Documents\Kata Work\ZombieSurvial\ZombieSurvial\obj\Debug\net5.0\ZombieSurvial.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Kata Work\ZombieSurvial\ZombieSurvial\obj\Debug\net5.0\ZombieSurvial.dll
+C:\Users\andre\Documents\Kata Work\ZombieSurvial\ZombieSurvial\obj\Debug\net5.0\ref\ZombieSurvial.dll
+C:\Users\andre\Documents\Kata Work\ZombieSurvial\ZombieSurvial\obj\Debug\net5.0\ZombieSurvial.pdb
+C:\Users\andre\Documents\Kata Work\ZombieSurvial\ZombieSurvial\obj\Debug\net5.0\ZombieSurvial.genruntimeconfig.cache
